@@ -16,3 +16,15 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+.accent {
+    color: #58d0a0;
+}
+
+h2,h3 {
+    line-height: 60%;
+}
+
+li {
+    list-style-type: none;
+}
