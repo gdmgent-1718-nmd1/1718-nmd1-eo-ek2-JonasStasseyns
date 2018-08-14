@@ -25,6 +25,16 @@ h2,h3 {
     line-height: 60%;
 }
 
-li {
+.procon li {
     list-style-type: none;
+}
+
+section {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto 2vw auto;
+    padding: 1.5vw;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.5);
 }
