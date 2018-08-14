@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/concurrentie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/concurrentie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/pages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/intro.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +18,13 @@
       <file leaf-file-name="intro.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/intro.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="465">
               <caret line="31" column="322" selection-start-line="31" selection-start-column="322" selection-end-line="31" selection-end-column="322" />
+=======
+            <state relative-caret-position="510">
+              <caret line="34" column="122" lean-forward="true" selection-start-line="34" selection-start-column="122" selection-end-line="34" selection-end-column="122" />
+>>>>>>> parent of 3c9fdaf... restyle
             </state>
           </provider>
         </entry>
@@ -28,8 +32,13 @@
       <file leaf-file-name="concurrentie.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="465">
               <caret line="31" column="98" selection-start-line="31" selection-start-column="98" selection-end-line="31" selection-end-column="98" />
+=======
+            <state relative-caret-position="360">
+              <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
+>>>>>>> parent of 3c9fdaf... restyle
             </state>
           </provider>
         </entry>
@@ -37,8 +46,13 @@
       <file leaf-file-name="pages.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="165">
               <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+=======
+            <state relative-caret-position="375">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+>>>>>>> parent of 3c9fdaf... restyle
             </state>
           </provider>
         </entry>
@@ -140,13 +154,21 @@
       <workItem from="1532358739867" duration="344000" />
       <workItem from="1532432028493" duration="227000" />
       <workItem from="1533127935081" duration="552000" />
+<<<<<<< HEAD
       <workItem from="1534158423927" duration="3828000" />
       <workItem from="1534251440583" duration="16000" />
+=======
+      <workItem from="1534158423927" duration="2679000" />
+>>>>>>> parent of 3c9fdaf... restyle
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="6515000" />
+=======
+    <option name="totallyTimeSpent" value="5350000" />
+>>>>>>> parent of 3c9fdaf... restyle
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -213,22 +235,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="165">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+=======
+        <state relative-caret-position="510">
+          <caret line="34" column="122" lean-forward="true" selection-start-line="34" selection-start-column="122" selection-end-line="34" selection-end-column="122" />
+>>>>>>> parent of 3c9fdaf... restyle
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="465">
           <caret line="31" column="98" selection-start-line="31" selection-start-column="98" selection-end-line="31" selection-end-column="98" />
+=======
+        <state relative-caret-position="375">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+>>>>>>> parent of 3c9fdaf... restyle
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/intro.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="465">
           <caret line="31" column="322" selection-start-line="31" selection-start-column="322" selection-end-line="31" selection-end-column="322" />
+=======
+        <state relative-caret-position="360">
+          <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
+>>>>>>> parent of 3c9fdaf... restyle
         </state>
       </provider>
     </entry>
