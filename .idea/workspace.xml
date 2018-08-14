@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af0b0956-1f0d-437f-81ef-bf9169e3f6dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/concurrentie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/concurrentie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/pages.css" afterDir="false" />
     </list>
@@ -14,10 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="intro.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="intro.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/intro.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="465">
@@ -30,13 +30,18 @@
             <state relative-caret-position="510">
               <caret line="34" column="122" lean-forward="true" selection-start-line="34" selection-start-column="122" selection-end-line="34" selection-end-column="122" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+            <state relative-caret-position="420">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+>>>>>>> parent of 35e3f9f... test
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="concurrentie.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="concurrentie.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="465">
@@ -49,6 +54,10 @@
             <state relative-caret-position="360">
               <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+            <state relative-caret-position="450">
+              <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+>>>>>>> parent of 35e3f9f... test
             </state>
           </provider>
         </entry>
@@ -56,6 +65,7 @@
       <file leaf-file-name="pages.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="165">
@@ -68,6 +78,10 @@
             <state relative-caret-position="375">
               <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+            <state relative-caret-position="570">
+              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+>>>>>>> parent of 35e3f9f... test
             </state>
           </provider>
         </entry>
@@ -80,9 +94,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pages/concurrentie.html" />
-        <option value="$PROJECT_DIR$/pages/css/pages.css" />
         <option value="$PROJECT_DIR$/pages/intro.html" />
+        <option value="$PROJECT_DIR$/pages/css/pages.css" />
+        <option value="$PROJECT_DIR$/pages/concurrentie.html" />
       </list>
     </option>
   </component>
@@ -111,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,6 +185,7 @@
       <workItem from="1533127935081" duration="552000" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1534158423927" duration="3828000" />
       <workItem from="1534251440583" duration="16000" />
 =======
@@ -179,10 +194,14 @@
 =======
       <workItem from="1534158423927" duration="2679000" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+      <workItem from="1534158423927" duration="3405000" />
+>>>>>>> parent of 35e3f9f... test
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="6515000" />
@@ -192,6 +211,9 @@
 =======
     <option name="totallyTimeSpent" value="5350000" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+    <option name="totallyTimeSpent" value="6076000" />
+>>>>>>> parent of 35e3f9f... test
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -256,8 +278,9 @@
     <entry file="file://$USER_HOME$/Google Drive/Arteveldehogeschool/NMD I/Herexamen_Script 3.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
+    <entry file="file://$PROJECT_DIR$/pages/intro.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="165">
@@ -270,11 +293,16 @@
         <state relative-caret-position="510">
           <caret line="34" column="122" lean-forward="true" selection-start-line="34" selection-start-column="122" selection-end-line="34" selection-end-column="122" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+        <state relative-caret-position="420">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+>>>>>>> parent of 35e3f9f... test
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
+    <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="465">
@@ -287,11 +315,16 @@
         <state relative-caret-position="375">
           <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+        <state relative-caret-position="570">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+>>>>>>> parent of 35e3f9f... test
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/intro.html">
+    <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="465">
@@ -304,6 +337,10 @@
         <state relative-caret-position="360">
           <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
 >>>>>>> parent of 3c9fdaf... restyle
+=======
+        <state relative-caret-position="450">
+          <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+>>>>>>> parent of 35e3f9f... test
         </state>
       </provider>
     </entry>
